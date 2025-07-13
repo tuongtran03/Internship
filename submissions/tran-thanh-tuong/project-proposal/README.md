@@ -246,9 +246,6 @@ Mỗi service có 1 sidecar Envoy proxy kết nối với AWS App Mesh, thực h
 * Tham khảo: [AWS Pricing Calculator](https://calculator.aws.amazon.com)
 
 ## C. Architecture Diagrams
-
-(Sẽ bổ sung sơ đồ kiến trúc nếu cần cho thuyết trình)
-
 ## D. References
 
 * CNCF Case Studies: [https://www.cncf.io/case-studies/](https://www.cncf.io/case-studies/)
