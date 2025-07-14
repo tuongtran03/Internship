@@ -279,8 +279,8 @@ Dựa theo AWS Pricing Calculator:
 * ECS Fargate: \~\$2,500/tháng (cho 10 dịch vụ, chạy 24/7)
 * App Mesh: \~\$300/tháng
 * CloudWatch + X-Ray: \~\$400/tháng
-* ACM + VPC + EBS: ~~\$200/tháng
-  ➡ Tổng chi phí hạ tầng trong 3 tháng: \*\*~~\$10,200\*\*
+* ACM + VPC + EBS: ~\$200/tháng
+  ➡ Tổng chi phí hạ tầng trong 3 tháng: ~$10,200
 
 ## Development Costs
 
