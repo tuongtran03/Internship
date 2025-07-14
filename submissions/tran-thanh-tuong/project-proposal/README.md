@@ -381,7 +381,6 @@ Dựa theo AWS Pricing Calculator:
   - Client → App Load Balancer → Envoy Sidecar
   - Envoy proxy → App Mesh Route → Virtual Service/Node
   - Dữ liệu trace về CloudWatch/X-Ray
-- Sẽ được đính kèm bằng sơ đồ `.png/.svg` trong repo GitHub hoặc trong tài liệu thuyết trình
 ## D. References
 - [AWS App Mesh Documentation](https://docs.aws.amazon.com/app-mesh/latest/userguide/what-is-app-mesh.html)
 - [AWS App Mesh Pricing](https://aws.amazon.com/app-mesh/pricing/)
